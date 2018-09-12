@@ -1,3 +1,5 @@
+v1.0.0
+
 This is the original
 
 Added a pointless comment!
