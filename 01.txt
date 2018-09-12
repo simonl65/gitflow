@@ -13,3 +13,5 @@ New pointless comment
 Added help feature here
 
 Bug was attended to.
+
+Squashed another bug.
