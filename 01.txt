@@ -1,4 +1,4 @@
-v1.0.0
+v1.0.1
 
 This is the original
 
@@ -11,3 +11,5 @@ Made another change
 New pointless comment
 
 Added help feature here
+
+Bug was attended to.
