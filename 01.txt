@@ -11,3 +11,5 @@ Made another change
 New pointless comment
 
 Added help feature here
+
+Bug was attended to.
