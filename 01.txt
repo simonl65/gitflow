@@ -1,0 +1,13 @@
+v1.0.0
+
+This is the original
+
+Added a pointless comment!
+Another pointless comment!
+Yet another pointless comment (after git push --set-upstream origin feature/pointless-comments)
+Made another change
+
+
+New pointless comment
+
+Added help feature here
