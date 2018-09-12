@@ -1,4 +1,4 @@
-v1.0.1
+v1.0.2
 
 This is the original
 
@@ -13,3 +13,5 @@ New pointless comment
 Added help feature here
 
 Bug was attended to.
+
+Squashed another bug.
